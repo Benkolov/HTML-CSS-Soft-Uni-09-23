@@ -1,0 +1,19 @@
+/* Apply styles to the <main> element with id "wrapper" */
+#wrapper {
+    background-color: #dddddd;
+    color: #95191a;
+    width: 300px;
+    border: 1px solid #000000;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding for better appearance */
+}
+
+/* Style the reversed ordered list */
+ol[reversed="reversed"] {
+    /* You can add additional styles here if needed */
+}
+
+/* Style list items if desired */
+ol[reversed="reversed"] li {
+    /* Add styles for list items */
+}

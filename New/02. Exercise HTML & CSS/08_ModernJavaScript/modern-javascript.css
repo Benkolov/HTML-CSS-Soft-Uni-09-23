@@ -1,0 +1,17 @@
+#wrapper {
+    background-color: #5bc0de;
+    padding: 20px;
+
+    color: #fff;
+}
+
+hr {
+    border: 1px solid #fff;
+    color: #999999;
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
