@@ -1,1 +1,24 @@
-/* TODO: style the html */
+
+body {
+    font-family: Helvetica, sans-serif; /* Use Helvetica as the font */
+    line-height: 1.5; /* Set line-height to 1.5 */
+    font-size: 18px; /* Set font size to 18px */
+    background-color: white; /* Set background color to white */
+}
+
+
+article {
+    margin: 54px; /* Set margins to 54px */
+    padding: 36px; /* Set padding to 36px */
+    border-radius: 16px; /* Set border radius to 16px */
+    color: white; /* Set text color to white */
+    text-indent: 40px; /* Indent text in the first line by 40px */
+    background-color: rgb(51, 102, 153); /* Set background color */
+}
+
+
+h1 {
+    font-family: Georgia, serif; /* Use Georgia as the font */
+    font-weight: normal; /* Reset font weight to normal (default is bold) */
+    font-style: italic; /* Add italic style */
+}
