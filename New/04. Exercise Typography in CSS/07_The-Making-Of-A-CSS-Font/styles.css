@@ -1,1 +1,40 @@
-/* TODO: style the html */
+/* Import the 'Righteous' font for <h1> */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+/* Import the 'Orienta' font for <p> */
+@import url('https://fonts.googleapis.com/css2?family=Orienta&display=swap');
+
+/* Apply styles to the <body> element */
+body {
+    background-color: darkred;
+}
+
+/* Apply styles to the <h1> element */
+h1 {
+    font-family: 'Righteous', cursive; /* Use 'Righteous' as the font */
+    font-size: 45px;
+    font-weight: normal;
+    line-height: 60px;
+    text-transform: uppercase; /* Transform text to uppercase */
+    text-align: center;
+    color: #fff;
+}
+
+/* Apply styles to the <h2> element */
+h2 {
+    font-size: 30px;
+    line-height: 50px;
+    letter-spacing: -1px; /* Space between letters */
+    text-transform: uppercase; /* Transform text to uppercase */
+    text-align: center;
+    color: #DFBF84;
+}
+
+/* Apply styles to the <p> element */
+p {
+    font-family: 'Orienta', sans-serif; /* Use 'Orienta' as the font */
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #f6f6f6;
+}
