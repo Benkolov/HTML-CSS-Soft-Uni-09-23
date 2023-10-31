@@ -1,0 +1,17 @@
+@media (min-width: 35rem) {
+    article {
+        color: red;
+    }
+}
+
+@media (max-width: 50rem) {
+    article {
+        border: 2px solid blue;
+    }
+}
+
+@media (width: 360px) {
+    article {
+        background: yellow;
+    }
+}
